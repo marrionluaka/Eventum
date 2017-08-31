@@ -1,0 +1,47 @@
+{
+  "categories":[
+    {"key": "music" , "value": "Concerts", "img": "../img/club.jpg"},
+    {"key": "conference" , "value": "Conferences"},
+    {"key": "comedy" , "value": "Comedy"},
+    {"key": "learning_education" , "value": "Education"},
+    {"key": "family_fun_kids" , "value": "Family"},
+    {"key": "festivals_parades" , "value": "Festivals"},
+    {"key": "movies_film" , "value": "Film"},
+    {"key": "food" , "value": "Food"},
+    {"key": "fundraisers" , "value": "Fundraisers"},
+    {"key": "art" , "value": "Galleries"},
+    {"key": "support" , "value": "Health"},
+    {"key": "holiday" , "value": "Holiday"},
+    {"key": "books" , "value": "Literary"},
+    {"key": "attractions" , "value": "Museum"},
+    {"key": "community" , "value": "Neighborhood"},
+    {"key": "singles_social" , "value": "Nightlife"},
+    {"key": "alumni" , "value": "On Compus"},
+    {"key": "clubs_associations" , "value": "Organizations", "img": "./img/club.jpg"},
+    {"key": "outdoors_recreation" , "value": "Outdoors"},
+    {"key": "performing_arts" , "value": "Performing"},
+    {"key": "animals" , "value": "Pets"},
+    {"key": "politics_activism" , "value": "Politics"},
+    {"key": "sales" , "value": "Sales"},
+    {"key": "science" , "value": "Science"},
+    {"key": "religion_spirituality" , "value": "Spirituality"},
+    {"key": "sports" , "value": "Sports"},
+    {"key": "technology" , "value": "Technology"},
+    {"key": "other" , "value": "Other"}
+  ],
+  "dates":[
+    {"key": "Today" , "value": "Today"},
+    {"key": "Tomorrow" , "value": "Tomorrow"},
+    {"key": "This+weekend" , "value": "This weekend (Fri-Sun)"},
+    {"key": "Next+7+days" , "value": "Next 7 days"},
+    {"key": "Next+30+days" , "value": "Next 30 days"},
+    {"key": "Past" , "value": "Past"}
+  ],
+  "radi":[
+    {"key": 5, "value": "5 km"},
+    {"key": 10, "value": "10 km"},
+    {"key": 20, "value": "20 km"},
+    {"key": 50, "value": "50 km"},
+    {"key": 100, "value": "100 km"}
+  ]
+}
